@@ -1,2 +1,2 @@
-# PrepCourse-Henr
-Este es un repositorio de prueba del M2 del Prepcourse Henry
+# Andrea
+Esto es una prueba de como crear un repositorio y clonarlo desde el github hacia la computadora
